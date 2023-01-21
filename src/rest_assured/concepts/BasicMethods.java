@@ -100,8 +100,9 @@ public class BasicMethods {
 
 		System.out.println(response.asString());
 
-		System.out.println(response.getStatusCode());
+//		System.out.println(response.getStatusCode());
 
 	}
+	
 
 }
